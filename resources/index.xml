@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Si Holloway Consulting</title>
+    <link>https://siholloway.com/resources/</link>
+    <description>Recent content in Resources on Si Holloway Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Si Holloway](https://siholloway.com) All Rights Reserved</copyright>
+    
+	<atom:link href="https://siholloway.com/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

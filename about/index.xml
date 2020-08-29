@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About Our Company on Airspace | Creative Agency Hugo Template</title>
-    <link>http://siholloway.github.io/about/</link>
-    <description>Recent content in About Our Company on Airspace | Creative Agency Hugo Template</description>
+    <title>About Si Holloway on Si Holloway Consulting</title>
+    <link>https://siholloway.com/about/</link>
+    <description>Recent content in About Si Holloway on Si Holloway Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
+    <copyright>Copyright &amp;copy; 2020 [Si Holloway](https://siholloway.com) All Rights Reserved</copyright>
     
-	<atom:link href="http://siholloway.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://siholloway.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
