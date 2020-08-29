@@ -1,6 +1,9 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
+title: "About Si Holloway"
+description: "Si Holloway's bio page"
 draft: false
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/Si_Headshot.jpg"
 ---
+Si Holloway
+Approach
+Testimonials
