@@ -15,3 +15,14 @@ git commit -m "a nice update message"
 9) git push origin master
 10) finally publish to gh-pages ie your website
 ./publish_to_gh_pages.sh
+
+
+************************************************************
+Where it edit
+
+Home page data is in content/data/homepage.yml
+Services data is in content/data/services.yml
+Resources data is in content/data/recources.yml
+About data is in content/data/about.yml
+Connect gets some data from the config.toml file
+FAQ is in the content/faq/index.md
