@@ -22,12 +22,12 @@
 {{ end }}
 {{ end }}
 
-{{ if $data.resources.featured_service.enable }}
-{{ with $data.resources.featured_service }}
+{{ if $data.resources.featured_resource.enable }}
+{{ with $data.resources.featured_resource }}
 <section class="service-arrow">
   <div class="container-fluid">
     <div class="row">
-      {{ range .service_item }}
+      {{ range .resource_item }}
       <div class="col-md-4 bg-primary bg-{{ .color }}">
         <div class="block">
           <i class="{{ .icon }}"></i>
@@ -42,11 +42,11 @@
 {{ end }}
 {{ end }}
 
-<!-- Service -->
-{{ if $data.resources.service.enable }}
+<!-- Resource -->
+{{ if $data.resources.resource.enable }}
 {{ partial "resources.html" . }}
 {{ end }}
-<!-- /service -->
+<!-- /resource -->
 
 <!-- Call to action -->
 {{ if $data.resources.cta.enable }}
