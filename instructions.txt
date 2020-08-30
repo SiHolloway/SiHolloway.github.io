@@ -1,0 +1,17 @@
+1) Run 
+git status
+   This will tell you if you have made any changes that need to be saved
+2) Save changes by running git add *
+3) If status says nothing then you need to look for changes on github by running
+git pull
+4) Update things
+5) run 
+git add -u
+6) If you add new things then run
+git add *
+7) commit your changes
+git commit -m "a nice update message"
+8) put it all back to github
+9) git push origin master
+10) finally publish to gh-pages ie your website
+./publish_to_gh_pages.sh
