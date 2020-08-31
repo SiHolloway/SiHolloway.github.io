@@ -1,12 +1,12 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/slider-bg.jpg"
+  bg_image : "images/mountains_sitting_on_dock.jpg"
   bg_overlay : true
-  title : "Si Holloway <br/> & Consultant"
+  title : "Helping you take control of your development journey to reach your potential. <br/> Coaching & Development made easy."
   content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
   button:
-    enable : true
+    enable : false
     label : "Discover Our Project"
     link : "project"
 
