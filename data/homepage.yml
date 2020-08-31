@@ -3,8 +3,8 @@ banner:
   enable : true
   bg_image : "images/mountains_sitting_on_dock.jpg"
   bg_overlay : true
-  title : "Helping you take control of your development journey to reach your potential. <br/> Coaching & Development made easy."
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title : "Helping you take control of your development journey to reach your potential."
+  content : "Coaching & Development made easy"
   button:
     enable : false
     label : "Discover Our Project"
