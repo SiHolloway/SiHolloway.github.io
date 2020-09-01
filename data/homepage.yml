@@ -26,13 +26,16 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/featue-bg.jpg"
+  bg_image : "images/laptop_desk.jpg"
   title : "Coaching & Development"
   content : "
   I believe everyone has the right to succeed and be the best version of themselves - working with a coach can help you fully explore your potential and take control of your development.
 
 
-  I also believe working with a coach should feel as uncomplicated and as easy as possible - work and life can be complicated enough without adding another layer to it!   Focussed and clear communication, the right level of challenge, agreed ownership, structured realistic actions that add value to your development will help you achieve or exceed your goals.
+  I also believe working with a coach should feel as uncomplicated and as easy as possible - work and life can be complicated enough without adding another layer to it!   
+  
+  
+  Focussed and clear communication, the right level of challenge, agreed ownership, structured realistic actions that add value to your development will help you achieve or exceed your goals.
 
 
   Together, we can help you find a better, easier way of working - and a more informed way of managing yourself and showing the best version of you.
