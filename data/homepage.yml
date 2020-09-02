@@ -4,7 +4,7 @@ banner:
   bg_image : "images/mountains_sitting_on_dock.jpg"
   bg_overlay : true
   title : "Helping you take control of your development journey to reach your potential."
-  content : "Coaching & Development made easy"
+  content : "Coaching & Development Made Easy"
   button:
     enable : false
     label : "Discover Our Project"
@@ -29,16 +29,16 @@ portfolio:
   bg_image : "images/laptop_desk.jpg"
   title : "Coaching & Development"
   content : "
-  I believe everyone has the right to succeed and be the best version of themselves - working with a coach can help you fully explore your potential and take control of your development.
+  Everyone has the right to succeed and be the best version of themselves - working with a coach can help you fully explore your potential and take control of your development.
 
 
-  I also believe working with a coach should feel as uncomplicated and as easy as possible - work and life can be complicated enough without adding another layer to it!   
+  Working with a coach should feel as uncomplicated and as easy as possible - work and life can be complicated enough without adding another layer to it!   
   
   
-  Focussed and clear communication, the right level of challenge, agreed ownership, structured realistic actions that add value to your development will help you achieve or exceed your goals.
+  It's about focussed and clear communication, the right level of challenge, agreed ownership, structured realistic actions that add value to your development- this will help you achieve or exceed your goals.
 
 
-  Together, we can help you find a better, easier way of working - and a more informed way of managing yourself and showing the best version of you.
+  Together, we can help you find a better, easier and more successful way of working - and a more informed way of managing yourself and showing the best version of you.
   "
   button:
     enable : false
@@ -48,7 +48,7 @@ portfolio:
 
 ############################# Services ############################
 services:
-  enable : true
+  enable : false
   # service content comes from "data/*/services.yml" file
 
 
