@@ -1,7 +1,7 @@
 ---
-title: "About Si Holloway"
-description: "Si Holloway's bio page"
+title: "About Si Holloway Consulting"
+description: " "
 draft: false
-bg_image: "images/Si_Headshot.jpg"
+bg_image: "images/snow_sky.jpg"
 ---
 

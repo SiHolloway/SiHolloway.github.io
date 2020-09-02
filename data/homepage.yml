@@ -1,52 +1,54 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/slider-bg.jpg"
+  bg_image : "images/mountains_sitting_on_dock.jpg"
   bg_overlay : true
-  title : "Si Holloway <br/> & Consultant"
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title : "Helping you take control of your development journey to reach your potential."
+  content : "Coaching & Development Made Easy"
   button:
-    enable : true
+    enable : false
     label : "Discover Our Project"
     link : "project"
 
 ############################# About #################################
 about:
   enable : true
-  title : "About Us"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-              blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-            nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-            anim id."
-  image : "images/wrapper-img.png"
+  title : "Si Holloway Consulting"
+  description : "I have a simple philosophy when it comes to coaching and development...   It should help make things easier for you, the organization you work for (or with), and the situation you are in.  
+  
+  <br> <br>  It really is as simple as that! 
+  
+  <br> <br>  Welcome to Si Holloway Consulting - Coaching and Development made easy!"
+  content : 
+  image : "images/swing_ravine2.jpg"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/featue-bg.jpg"
-  title : "WE BELIEVE IN GREAT IDEAS"
+  bg_image : "images/laptop_desk.jpg"
+  title : "Coaching & Development"
   content : "
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Everyone has the right to succeed and be the best version of themselves - working with a coach can help you fully explore your potential and take control of your development.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Working with a coach should feel as uncomplicated and as easy as possible - work and life can be complicated enough without adding another layer to it!   
+  
+  
+  It's about focussed and clear communication, the right level of challenge, agreed ownership, structured realistic actions that add value to your development- this will help you achieve or exceed your goals.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Together, we can help you find a better, easier and more successful way of working - and a more informed way of managing yourself and showing the best version of you.
   "
   button:
-    enable : true
+    enable : false
     label : "View Works"
     link : "project"
 
 
 ############################# Services ############################
 services:
-  enable : true
+  enable : false
   # service content comes from "data/*/services.yml" file
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Services"
-description: "service with a smile"
+description: " "
 draft: false
 bg_image: "images/featue-bg.jpg"
 ---

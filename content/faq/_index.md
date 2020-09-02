@@ -1,22 +1,15 @@
 ---
 title: "Frequently Asked Questions"
-description: "this is meta description"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
+description: " "
+subtitle : " "
 date: 2020-03-23T13:05:29+06:00
 draft: false
 bg_image: "images/featue-bg.jpg"
 ---
 
-### Welcome to Airspace!
+### Welcome to the FAQ section!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+Scroll down to see a list of common and frequently asked questions. If the information you require is not listed below - please click on the CONNECT button at the top of the screen. You can ask and submit your question there using the fields provided - or please feel free to email or call me directly.  
 
 #### 1.Overview
 
